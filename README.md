@@ -136,7 +136,3 @@ CAN frame for ID `0x107`:
 Frames are re-sent every ~10 ms so the needle holds steady instead of decaying — the cluster is "sticky" and keeps the last commanded value.
 
 ---
-
-## License
-
-MIT — do what you like, no warranty. See `LICENSE` (optional).
